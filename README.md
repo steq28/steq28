@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefano</h1>
-<h3 align="center">21y/o cpmputer science student</h3>
+<h3 align="center">21y/o computer science student</h3>
 
   <h3 align="left">Visit my portfolio: <a href="https://stefanoquaggio.it/">https://stefanoquaggio.it/</a></h3>
 
