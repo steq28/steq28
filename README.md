@@ -1,5 +1,6 @@
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Hi, I'm Stefano
 # 💫 About Me:
-📚 I'm studying for a master's degree in computer science<br>🤖 I'm trying to create little Machine Learning projects with Python<br>🦄 I program apps in React Native for a small startup<br>🌱 I'm entering the world of Open Source (it's magical)
+📚 I'm studying for a Master's Degree in Computer Science<br>🤖 I'm trying to create little Machine Learning projects with Python<br>🦄 I program apps in React Native for a small startup<br>🌱 I'm entering the world of Open Source (it's magical)
 
 
 ## 🌐 Socials:
@@ -21,8 +22,14 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=steq28&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=steq28&icon=7&color=1)](https://visitcount.itsvg.in)
