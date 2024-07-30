@@ -13,18 +13,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=steq28&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=steq28&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=steq28&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=steq28&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 😂 Random Dev Meme
+### 💀 Random Dev Meme
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
