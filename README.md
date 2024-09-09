@@ -1,14 +1,36 @@
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Hi, I'm Stefano
-# 💫 About Me:
-📚 I'm studying for a Master's Degree in Computer Science<br>🤖 I'm trying to create little Machine Learning projects with Python<br>🦄 I program apps in React Native for a small startup<br>🌱 I'm entering the world of Open Source (it's magical)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Stefano!;" />
+</h1>
+<h3 align="center">A passionate software developer from Italy 🇮🇹</h3>
+<br/>
+<div align="center">
+  
+  📚 I'm studying for a <b>Master's Degree in Computer Science</b>
+  
+  🤖 I'm trying to create little <b>Machine Learning</b> projects with Python
+  
+  🦄 I develop apps in <b>React Native</b> for a small startup
+  
+  🌱 I'm entering the world of <b>Open Source (it's magical)</b>
+</div>
 
+ <hr/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stefano-quaggio-9a57a01b3) 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=steq28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=steq28&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steq28&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&custom_title=Stats" height="200" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=steq28&custom_title=activity&theme=tokyo-night&radius=6&area=true&hide_border=true&hide_title=false" height="220" alt="activity-graph graph"  />
+</div>
+ <hr/>
+ <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,python,tensorflow,nodejs,typescript" /><br/>
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,redux,git,mongodb,jquery,pytorch" />
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=steq28&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=steq28&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=steq28&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/steq28/steq28/output/github-contribution-grid-snake.svg" />
+</div>
