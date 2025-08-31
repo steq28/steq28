@@ -9,8 +9,6 @@
   
   🤖 I'm trying to create little <b>Machine Learning</b> projects with Python
   
-  🦄 I develop apps in <b>React Native</b> for a small startup
-  
   🌱 I'm entering the world of <b>Open Source (it's magical)</b>
 </div>
 
